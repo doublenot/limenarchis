@@ -6,7 +6,7 @@
   "main": "main.js",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^2.0.8"
+    "electron": "^15.5.5"
   },
   "dependencies": {
     "electron-menubar": "^1.0.1"
